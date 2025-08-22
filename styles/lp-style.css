@@ -1,0 +1,68 @@
+header .header-wrapper a {
+  cursor: default;
+}
+header .menu-item .om-adv {
+  border-bottom: 2px solid rgba(21, 20, 25, 0.1);
+  margin-right: 40px;
+}
+
+footer .contact-details {
+  justify-content: space-between;
+}
+
+footer.top-space {
+  padding-top: 0 !important;
+}
+
+footer .doodle {
+  height: 567px;
+}
+
+#courseleadForm_popup {
+  background: #F7F6F6 !important;
+  border-radius: 24px !important;
+}
+#courseleadForm_popup .fields {
+  display: flex;
+  -moz-column-gap: 24px;
+       column-gap: 24px;
+  flex-wrap: wrap;
+}
+#courseleadForm_popup .fields .form-group {
+  flex: 0 1 calc(33.33% - 24px);
+}
+#courseleadForm_popup .fields .form-group.terms-condition {
+  flex: unset;
+}
+#courseleadForm_popup .fields .form-group.terms-condition label {
+  font-size: 14px;
+}
+
+/*Start Responsive css */
+@media (min-width: 1920px) {
+  #courseleadForm_popup {
+    border-radius: 40px !important;
+  }
+}
+@media (max-width: 1599.98px) {
+  footer .doodle {
+    height: 488px;
+  }
+  footer .contact-details {
+    padding: 1.042vw 0;
+  }
+}
+@media (max-width: 992px) {
+  footer .right img {
+    display: none;
+  }
+  #courseleadForm_popup .fields .form-group {
+    flex: unset;
+    width: 100%;
+  }
+}
+@media (max-width: 575.98px) {
+  #courseleadForm_popup .select2-container--default .select2-results > .select2-results__options {
+    max-height: 200px;
+  }
+}/*# sourceMappingURL=lp-style.css.map */

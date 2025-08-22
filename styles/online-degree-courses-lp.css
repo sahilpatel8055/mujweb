@@ -1,0 +1,2595 @@
+.floating-Widget .call-block {
+  display: none;
+}
+
+#leadForm_popup {
+  overflow: hidden;
+  overflow-y: visible;
+}
+.know-more {
+  cursor: pointer;
+}
+
+#downloadForm .select2-container--default .select2-results > .select2-results__options {
+  max-height: 150px;
+}
+
+.online-degree-courses-banner .right {
+  width: 24%;
+  align-items: right;
+  position: absolute;
+  z-index: 1;
+  top: 170px;
+  right: 98px;
+}
+.online-degree-courses-banner .right .form-container {
+  border-radius: 10px;
+  background: #FDD900;
+}
+.online-degree-courses-banner .right .form-container .select2-container--default .select2-selection--single {
+  border-radius: 4px !important;
+}
+.online-degree-courses-banner .right .form-container input {
+  border-radius: 4px;
+}
+.online-degree-courses-banner .right .form-container .select2-container--default .select2-results__option--disabled {
+  font-weight: bold;
+}
+.online-degree-courses-banner .right .form-container .select2-container--default .select2-results > .select2-results__options {
+  max-height: 300px;
+}
+.online-degree-courses-banner .right .form-container .form-group label {
+  display: none;
+}
+.online-degree-courses-banner .right .form-container .terms-condition label {
+  display: block;
+}
+.online-degree-courses-banner .right .form-container .formBlock {
+  background: #343634;
+  border-radius: 10px;
+}
+.online-degree-courses-banner .right .form-container .formBlock .terms-condition label {
+  color: #fff;
+  font-size: 12px;
+}
+.online-degree-courses-banner .right .form-container .formBlock .lead-submit {
+  width: 100%;
+}
+.online-degree-courses-banner .right .form-container .formBlock .section-title {
+  font-size: 24px;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+}
+.online-degree-courses-banner .right .form-container .formBlock .section-title .form-title {
+  font-size: inherit;
+  color: rgb(255, 102, 0);
+}
+.online-degree-courses-banner .right .form-container .scholarship-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  background: rgba(217, 217, 217, 0.21);
+  border-radius: 6px;
+}
+.online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission {
+  display: flex;
+  gap: 10px;
+}
+.online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission .admission-date {
+  font-size: 14px;
+  color: #fff;
+}
+.online-degree-courses-banner .right .form-container .scholarship-details .limited-seats {
+  display: flex;
+  gap: 10px;
+}
+.online-degree-courses-banner .right .form-container .scholarship-details .limited-seats .admission-date {
+  font-size: 14px;
+  color: #fff;
+}
+.online-degree-courses-banner .right .form-container .admisssion-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+}
+.online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission {
+  display: flex;
+  gap: 10px;
+}
+.online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission .admission-date {
+  font-size: 12px;
+  color: #000;
+}
+.online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission .admission-date span {
+  font-size: inherit;
+  color: inherit;
+  font-weight: bold;
+}
+.online-degree-courses-banner .right .form-container .admisssion-details .limited-seats {
+  display: flex;
+  gap: 10px;
+}
+.online-degree-courses-banner .right .form-container .admisssion-details .limited-seats .admission-date {
+  font-size: 12px;
+  color: #000;
+}
+.online-degree-courses-banner .right .form-container .admisssion-details .limited-seats .admission-date span {
+  font-size: inherit;
+  color: inherit;
+  font-weight: bold;
+}
+.online-degree-courses-banner .right .form-container .info-text {
+  color: #fff;
+  margin: 6px;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  aspect-ratio: 1920/870;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container {
+  display: flex;
+  align-items: end;
+  padding-top: 300px;
+  height: 100%;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left {
+  width: 75%;
+  height: 100%;
+  display: flex;
+  position: relative;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt {
+  width: 70%;
+  transform: scale(0.9);
+  transform-origin: left center;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+  position: absolute;
+  top: 16%;
+  left: 396px;
+  width: 140px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign-thumb {
+  position: absolute;
+  top: 13%;
+  right: 26px;
+  width: 120px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-image {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-360 {
+  position: absolute;
+  bottom: 20px;
+  left: unset;
+  right: 210px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-title {
+  font-family: "Queens";
+  font-size: 60px;
+  line-height: 1.2;
+  font-weight: 500;
+  color: #fff;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-title span {
+  display: block;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .muj {
+  background: #CCC1FF;
+  border: 1px solid #ada4d8;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .smu {
+  background: #BEFFFE;
+  border: 1px solid #94d7d6;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .course-price-details {
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgb(242, 103, 34);
+  font-family: "Queens";
+  margin-top: 10px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .course-price-details span {
+  font-size: 16px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .univercity {
+  font-family: "Queens";
+  font-size: 24px;
+  line-height: 1.2;
+  color: #000;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 6px 10px 2px 10px;
+  border-radius: 0 12px 12px 0;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .courses-list {
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 24px;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 48px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card {
+  display: flex;
+  background: #fff;
+  padding: 0px 20px 20px 20px;
+  width: -moz-fit-content;
+  width: fit-content;
+  gap: 50px;
+  border-radius: 16px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-box {
+  text-align: center;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text {
+  font-size: 18px;
+  line-height: 1.4;
+  color: #151419;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text span {
+  display: block;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card img {
+  height: 142px;
+  width: auto;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+  position: absolute;
+  right: -114px;
+  bottom: 129px;
+  width: 168px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .making-icon {
+  position: absolute;
+  right: -84px;
+  bottom: 152px;
+  width: 153px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .electives {
+  font-size: 24px;
+  color: #F6F6F6;
+  margin-bottom: 12px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .electives-text {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 30px;
+  width: 50%;
+  flex-wrap: wrap;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .electives-text .more-class {
+  font-size: 25px;
+  font-weight: 500;
+  color: #fff;
+  font-family: "Queens";
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .right {
+  width: 25%;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .smu-banner .banner-img .banner-container {
+  padding-top: 262px;
+}
+
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item {
+  position: relative;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .univercity {
+  border-radius: 12px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .scholarship-txt {
+  margin-top: 20px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+  position: absolute;
+  top: 26%;
+  left: 396px;
+  width: 140px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card {
+  gap: 20px;
+  padding: 16px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card img {
+  height: 85px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text {
+  align-self: center;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-box {
+  display: flex;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .ugc.rank-box {
+  margin-left: -10px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .isolation {
+  height: 69px;
+  align-self: center;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .isolation img {
+  height: 69px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+  right: -110px;
+  bottom: 47px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .electives-text {
+  margin-bottom: 20px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses-banner .second-banner {
+  margin-bottom: 80px;
+}
+.page-template-mahe-landing-page-generic .online-degree-statistic {
+  background-color: #F7F7F7;
+}
+.page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container {
+  padding: 20px 0px;
+  justify-content: space-between;
+}
+.page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container .course-info {
+  font-size: 50px;
+  color: #FF6600;
+  flex-direction: column;
+  gap: 0px;
+  width: unset;
+}
+.page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container .course-info span {
+  font-family: "Queens";
+  line-height: 1;
+}
+.page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container .course-info .title {
+  font-size: 18px;
+  color: #151419;
+  font-family: "HelveticaNowDisplay";
+  font-weight: 500;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses .section-title {
+  margin-bottom: 20px !important;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .course-name {
+  min-height: 64px;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing {
+  justify-content: space-between;
+  padding-bottom: 0px !important;
+  min-height: 40px !important;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .duration {
+  width: 50%;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .pricing {
+  width: 50%;
+}
+.page-template-mahe-landing-page-generic .online-degree-courses #section1-tab2 .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .course-name {
+  min-height: 96px;
+}
+.page-template-mahe-landing-page-generic .slick-dots {
+  display: none;
+}
+
+.online-degree-statistic {
+  background: rgb(247, 247, 247);
+}
+.online-degree-statistic .statistic-container {
+  display: flex;
+  padding: 42px;
+}
+.online-degree-statistic .statistic-container .course-info {
+  width: 25%;
+  text-align: start;
+  justify-content: center;
+  display: flex;
+  gap: 14px;
+}
+.online-degree-statistic .statistic-container .course-info .title {
+  font-family: "Queens";
+  font-size: 20px;
+  color: rgb(21, 20, 25);
+}
+.online-degree-statistic .statistic-container .course-info .title span {
+  display: block;
+}
+.online-degree-statistic .statistic-container .border-right {
+  border-right: 1px solid rgba(21, 20, 25, 0.1);
+}
+.online-degree-statistic .statistic-container .course-info:last-child {
+  border-right: none;
+}
+
+.unlock-these-benefits {
+  background: #F6E6C5;
+  padding: 60px 0 36px 0;
+  position: relative;
+}
+.unlock-these-benefits .unlock-benefit-row {
+  z-index: 1;
+  position: relative;
+}
+.unlock-these-benefits .unlock-wrapper {
+  display: flex;
+  gap: 24px;
+  padding-bottom: 68px;
+}
+.unlock-these-benefits .unlock-wrapper .unlock-card {
+  width: 25%;
+  background: #fff;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  padding: 32px;
+}
+.unlock-these-benefits .unlock-wrapper .unlock-card .feature-title {
+  font-family: "Queens";
+  font-size: 32px;
+  color: rgb(21, 20, 25);
+}
+.unlock-these-benefits .unlock-wrapper .unlock-card img {
+  width: 64px;
+  margin-bottom: 24px;
+}
+.unlock-these-benefits .scholarship-container .scholarship-title {
+  font-size: 24px;
+  line-height: 2rem;
+  color: #151419;
+}
+.unlock-these-benefits .scholarship-container .scholarship-wrapper {
+  display: flex;
+  gap: 32px;
+  padding-bottom: 24px;
+}
+.unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail {
+  display: flex;
+  background: #fff;
+  border-radius: 20px;
+  padding: 32px 24px;
+  gap: 16px;
+  align-items: center;
+  width: 50%;
+}
+.unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail .manipal-details {
+  display: flex;
+  width: 100%;
+}
+.unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail .scholarship-text .title {
+  font-size: 20px;
+  color: #151419;
+  font-weight: 700;
+  line-height: 1.4rem;
+  padding-bottom: 12px;
+  margin: 0;
+}
+.unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail .scholarship-text .description {
+  font-size: 20px;
+  color: #575757;
+  font-weight: 400;
+  line-height: 1.6rem;
+}
+.unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail .learn-more {
+  display: flex;
+  font-weight: 500;
+  font-size: 18px;
+  width: 50%;
+  justify-content: end;
+  color: #151419;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+.unlock-these-benefits .apply-now-btn {
+  margin-top: 24px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.online-advantages .advantage-wrapper {
+  display: flex;
+  gap: 10px;
+}
+.online-advantages .advantage-wrapper .advantage-card {
+  width: 25%;
+  background: #F7F6F6;
+  padding: 32px;
+  border-radius: 12px;
+  transition: all 0.3s ease-in-out;
+  white-space: normal;
+  height: inherit;
+}
+.online-advantages .advantage-wrapper .advantage-card .feature-wrap {
+  display: flex;
+  flex-direction: column;
+}
+.online-advantages .advantage-wrapper .advantage-card .feature-wrap img {
+  width: 64px;
+  margin-bottom: 24px;
+}
+.online-advantages .advantage-wrapper .advantage-card .feature-wrap .feature-title {
+  font-family: "Queens";
+  font-size: 24px;
+  color: #151419;
+}
+.online-advantages .advantage-wrapper .advantage-card .feature-wrap .feature-description {
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+  color: #575757;
+  line-height: 1.5;
+}
+
+.online-degree-courses .top-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.online-degree-courses .top-section .section-title {
+  margin-bottom: 4px;
+}
+.online-degree-courses .top-section .view-all-btn {
+  font-size: 20px;
+  color: #151419;
+  border: 2px solid rgba(21, 20, 25, 0.1);
+  border-radius: 50px;
+  padding: 14px 16px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.online-degree-courses .wrapper-course .course-tab {
+  background: transparent;
+  box-shadow: none;
+  margin-bottom: 12px;
+}
+.online-degree-courses .wrapper-course .course-tab .tab-buttons {
+  border-bottom: none;
+}
+.online-degree-courses .wrapper-course .course-tab .tab-buttons .tab-btn {
+  flex: none;
+  margin-right: 20px;
+  padding: 8px 12px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #151419;
+  background: #fff;
+  border: 2px solid rgba(21, 20, 25, 0.1);
+}
+.online-degree-courses .wrapper-course .course-tab .tab-buttons .tab-btn.active {
+  font-weight: 700;
+  color: #fff;
+  background: #151419;
+}
+.online-degree-courses .wrapper-course .course-tab .tab-buttons button:hover {
+  transform: none;
+  background: #F7F6F6;
+}
+.online-degree-courses .wrapper-course .course-tab .tab-content {
+  padding: 20px 0;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section {
+  overflow: hidden;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .slick-list {
+  margin-left: -10px;
+  margin-right: -10px;
+  overflow: visible;
+  margin-bottom: 46px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .slick-list .slick-track {
+  margin-left: unset;
+  margin-right: unset;
+  display: flex;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item {
+  padding: 16px;
+  border: 2px solid rgba(21, 20, 25, 0.1);
+  border-radius: 12px;
+  margin-left: 12px;
+  margin-right: 12px;
+  background: #F7F6F6;
+  position: relative;
+  height: inherit;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: -50px;
+  z-index: 1;
+  position: absolute;
+  padding: 6px;
+  width: 92%;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .top-ranked {
+  background: #FDD900;
+  border-radius: 16px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.313rem;
+  font-weight: 700;
+  color: #151419;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(21, 20, 25, 0.6);
+  border-radius: 16px;
+  padding: 6px 12px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll .enroll-text {
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 1rem;
+  color: #fff;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .course-img:hover .student-enroll {
+  background: rgba(21, 20, 25, 0.8);
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-img img {
+  border-radius: 12px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border: 1px solid rgba(21, 20, 25, 0.1);
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .institute-name {
+  margin-left: -16px;
+  width: -moz-fit-content;
+  width: fit-content;
+  padding: 4px 16px;
+  border-radius: 0 12px 12px 0;
+  margin-top: -18px;
+  z-index: 1;
+  position: absolute;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.313;
+  color: #575757;
+  left: 15px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .muj-bg {
+  background: #CCC1FF;
+  border: 1px solid #ada4d8;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .smu-bg {
+  background: #BEFFFE;
+  border: 1px solid #94d7d6;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .mahe-bg {
+  background: #A9D8FF;
+  border: 1px solid #9ac5e8;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper {
+  padding-top: 28px;
+  min-height: 150px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil {
+  display: flex;
+  justify-content: space-between;
+  min-height: 75px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .course-name {
+  font-size: 24px;
+  line-height: 2rem;
+  font-weight: 700;
+  color: #151419;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  height: -moz-fit-content;
+  height: fit-content;
+  padding: 6px 12px;
+  border-radius: 18px;
+  gap: 8px;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 1px solid rgba(21, 20, 25, 0.1);
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating .rating-number {
+  margin-bottom: 0;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #151419;
+  letter-spacing: 0.85px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating img {
+  max-width: 14px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing {
+  display: flex;
+  align-items: center;
+  padding-bottom: 18px;
+  align-items: flex-start;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .duration {
+  display: flex;
+  align-items: center;
+  color: #151419;
+  width: 72%;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .duration span {
+  font-size: 14px;
+  line-height: 1.25;
+  margin-top: 0;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .duration span .span-text {
+  display: block;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .duration img {
+  width: 20px;
+  margin-right: 8px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .dot {
+  width: 6px;
+  height: 6px;
+  background-color: #151419;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 16px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .pricing {
+  display: flex;
+  align-items: center;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .pricing img {
+  width: 20px;
+  margin-right: 8px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .pricing span {
+  font-size: 14px;
+  line-height: 1.25;
+  color: #151419;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .pricing span .span-text {
+  display: block;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .online-course-detail .duration {
+  align-items: flex-start;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .online-course-detail .duration img {
+  width: 16px;
+  margin-right: 8px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .online-course-detail .duration .cap-img {
+  width: 22px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .online-course-detail .pricing {
+  align-items: flex-start;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .online-course-detail .pricing img {
+  width: 16px;
+  margin-right: 8px;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .border-muj:hover {
+  border: 2px solid #CCC1FF;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .border-muj:hover .student-enroll {
+  background: rgba(21, 20, 25, 0.8);
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .border-smu:hover {
+  border: 2px solid #94d7d6;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .border-smu:hover .student-enroll {
+  background: rgba(21, 20, 25, 0.8);
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .border-mahe:hover {
+  border: 2px solid #A9D8FF;
+}
+.online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .border-mahe:hover .student-enroll {
+  background: rgba(21, 20, 25, 0.8);
+}
+.online-degree-courses .wrapper-course .course-tab .courses-enroll-now {
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: -54px;
+}
+
+.select2-container--default .select2-results__option--disabled {
+  color: #999;
+  font-weight: bold;
+}
+
+.li#select2-institution-a8-result-v2db-MAHE {
+  display: none;
+}
+
+.online-degree-courses-banner .formBlock h5 {
+  color: #fff;
+}
+.online-degree-courses-banner .formBlock .otp-verification-block .resendOTPBlock {
+  color: #fff;
+}
+.online-degree-courses-banner .formBlock .otp-verification-block p {
+  color: #fff;
+}
+.online-degree-courses-banner .formBlock .otp-verification-block .otp-info-block {
+  color: #fff;
+}
+.online-degree-courses-banner .formBlock .otp-verification-block #resendOtpBtn {
+  color: #fff;
+}
+
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree {
+  padding-top: 173px;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .primarybutton, .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .banner-btn {
+  background: #fff;
+  color: #151419;
+  margin-bottom: 40px;
+  border: 1px solid #fff;
+}
+.online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .banner-btn:hover {
+  border: 1px solid #fff !important;
+  transform: none !important;
+}
+
+@media (max-width: 1919.98px) {
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .wrapper-course .top-course-slider .line-item .course-wrapper .course-deatil {
+    min-height: 102px;
+  }
+}
+@media (min-width: 1600px) {
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container {
+    padding-top: 180px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-image {
+    width: 400px;
+    right: 100px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    left: 514px;
+    bottom: 30px;
+    width: 180px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .left .abd-360 {
+    right: 429px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .left .abd-image {
+    width: 522px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .left .abd-sign {
+    left: 603px;
+  }
+}
+@media (min-width: 1919.98px) {
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil {
+    min-height: 90px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .course-name {
+    min-height: 120px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt {
+    transform: none;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-image {
+    width: 500px;
+    right: 50px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    left: unset;
+    right: 440px;
+    bottom: 40px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign-thumb {
+    top: 20%;
+    right: 40px;
+    width: 180px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-360 {
+    left: unset;
+    right: 440px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    left: unset;
+  }
+}
+@media (max-width: 1599.98px) {
+  .online-degree-courses-banner .right {
+    width: 28%;
+    top: 122px;
+    right: 116px;
+  }
+  .online-degree-courses-banner .right input,
+  .online-degree-courses-banner .right textarea,
+  .online-degree-courses-banner .right select {
+    padding: 10px 10px;
+  }
+  .online-degree-courses-banner .right .select2-selection {
+    height: 44px !important;
+  }
+  .online-degree-courses-banner .right .iti.iti--separate-dial-code {
+    height: unset;
+  }
+  .online-degree-courses-banner .right .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 42px !important;
+  }
+  .online-degree-courses-banner .right .formBlock .lead-submit {
+    padding: 10px 60px;
+  }
+  .online-degree-courses-banner .right .form-container {
+    border-radius: 10px;
+    background: #FDD900;
+  }
+  .online-degree-courses-banner .right .form-container .form-group {
+    margin-bottom: 0.8rem;
+  }
+  .online-degree-courses-banner .right .form-container .form-group label {
+    display: none;
+  }
+  .online-degree-courses-banner .right .form-container .terms-condition label {
+    display: block;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock {
+    background: #343634;
+    border-radius: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .terms-condition label {
+    color: #fff;
+    font-size: 12px !important;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .lead-submit {
+    width: 100%;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .section-title {
+    font-size: 20px !important;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 6px;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .section-title span {
+    font-size: inherit;
+    color: #FF6600;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    background: rgba(217, 217, 217, 0.21);
+    border-radius: 6px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission img {
+    width: 14px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission .admission-date {
+    font-size: 12px !important;
+    color: #fff;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .limited-seats {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .limited-seats img {
+    width: 14px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .limited-seats .admission-date {
+    font-size: 12px;
+    color: #fff;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission .admission-date {
+    font-size: 12px;
+    color: #000;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission .admission-date span {
+    font-size: inherit;
+    color: inherit;
+    font-weight: bold;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .limited-seats {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .limited-seats .admission-date {
+    font-size: 12px;
+    color: #000;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .limited-seats .admission-date span {
+    font-size: inherit;
+    color: inherit;
+    font-weight: bold;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    aspect-ratio: unset;
+    background-size: cover;
+    height: 92vh;
+    width: 100%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container {
+    padding-top: 200px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left {
+    width: 68%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-title {
+    font-size: 48px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .univercity {
+    font-family: "Queens";
+    font-size: 20px;
+    padding: 6px 10px 2px 10px;
+    border-radius: 0 12px 12px 0;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .courses-list {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 36px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card {
+    padding: 0px 20px 20px 20px;
+    gap: 50px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-box {
+    text-align: center;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text {
+    font-size: 14px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text span {
+    display: block;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card img {
+    height: 90px;
+    width: auto;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+    right: -94px;
+    bottom: 88px;
+    width: 138px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .making-icon {
+    right: -69px;
+    bottom: 99px;
+    width: 132px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .right {
+    width: 32%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .smu-banner .banner-img .banner-container {
+    padding-top: 160px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree {
+    padding-top: 85px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .primarybutton, .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .banner-btn {
+    background: #fff;
+    color: #151419;
+    margin-bottom: 40px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container.muj-degree .banner-btn:hover {
+    border: none;
+    padding: 12px 22px !important;
+  }
+  .online-degree-courses .wrapper-course .course-tab .courses-enroll-now {
+    margin-bottom: -30px;
+  }
+  .online-advantages .advantage-wrapper {
+    display: flex;
+    gap: 10px;
+  }
+  .online-advantages .advantage-wrapper .advantage-card {
+    width: 25%;
+    background: #F7F6F6;
+    padding: 24px;
+  }
+  .online-advantages .advantage-wrapper .advantage-card .feature-wrap img {
+    width: 54px;
+    margin-bottom: 14px;
+  }
+  .unlock-these-benefits {
+    background: #F2DFB4;
+    padding: 60px 0 36px 0;
+  }
+  .unlock-these-benefits .unlock-wrapper {
+    display: flex;
+    gap: 24px;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card {
+    width: 25%;
+    background: #fff;
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    padding: 24px;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card .feature-title {
+    font-family: "Queens";
+    font-size: 24px;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card img {
+    width: 54px;
+    margin-bottom: 14px;
+  }
+  .online-degree-courses .top-section .view-all-btn {
+    font-size: 14px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .tab-buttons {
+    border-bottom: none;
+  }
+  .online-degree-courses .wrapper-course .course-tab .tab-buttons .tab-btn {
+    font-size: 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item {
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .institute-name {
+    margin-left: -12px;
+    font-size: 12px;
+    line-height: 1rem;
+    margin-top: -14px;
+    left: 12px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .top-ranked {
+    font-size: 12px;
+    line-height: 1rem;
+    padding: 2px 6px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll {
+    padding: 2px 6px;
+    gap: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll .enroll-text {
+    font-size: 12px;
+    line-height: 1rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll img {
+    width: 12px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper {
+    padding-top: 20px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating .rating-number {
+    font-size: 12px;
+    line-height: 1rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating img {
+    max-width: 12px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .course-name {
+    font-size: 18px;
+    line-height: 1.4;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing {
+    padding-bottom: 14px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .dot {
+    width: 4px;
+    height: 4px;
+    margin: 0 8px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration {
+    width: 66%;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration span {
+    font-size: 12px;
+    line-height: 1rem;
+    margin-top: 0px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration img {
+    width: 14px;
+    margin-right: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .pricing span {
+    font-size: 12px;
+    line-height: 1rem;
+    margin-top: 0;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .pricing img {
+    width: 14px;
+    margin-right: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .duration img {
+    width: 12px;
+    margin-right: 8px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .duration .cap-img {
+    width: 18px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .pricing {
+    align-items: flex-start;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .pricing img {
+    width: 12px;
+    margin-right: 8px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 100vh;
+    max-height: 700px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container {
+    padding-top: 130px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+    right: -120px;
+    bottom: 0px;
+    width: 100px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card img {
+    height: 66px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .isolation img {
+    height: 52px;
+    margin-top: 8px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .electives-text {
+    width: 80%;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container .course-info {
+    font-size: 48px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container .course-info .title {
+    width: -moz-max-content;
+    width: max-content;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .coursera-access {
+    margin-top: -15px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration span .span-text {
+    display: inline-block;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .courses-enroll-now {
+    margin-bottom: -30px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab #section1-tab2 .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration span .span-text {
+    display: inline-block;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab #section1-tab2 .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil {
+    padding-bottom: 0px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab #section1-tab2 .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .course-name {
+    min-height: 75px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing {
+    justify-content: space-between;
+    gap: 12px;
+    align-items: center;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .duration-pricing .duration {
+    width: 50%;
+    min-height: 48px;
+  }
+}
+@media (max-width: 1366px) {
+  .online-degree-courses-banner .right {
+    width: 28%;
+    top: 110px;
+    right: 84px;
+  }
+  .online-degree-courses-banner .right input,
+  .online-degree-courses-banner .right textarea,
+  .online-degree-courses-banner .right select {
+    padding: 8px 8px;
+    font-size: 14px;
+  }
+  .online-degree-courses-banner .right .iti.iti--separate-dial-code .iti__selected-flag {
+    font-size: 14px;
+  }
+  .online-degree-courses-banner .right .select2-selection {
+    height: 36px !important;
+  }
+  .online-degree-courses-banner .right .select2-container--default .select2-selection--single .select2-selection__placeholder {
+    font-size: 14px;
+  }
+  .online-degree-courses-banner .right .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 42px !important;
+  }
+  .online-degree-courses-banner .right .iti.iti--separate-dial-code {
+    height: unset;
+  }
+  .online-degree-courses-banner .right .formBlock .lead-submit {
+    padding: 10px 60px;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock {
+    padding: 16px;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .section-title {
+    font-size: 16px !important;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .section-title span {
+    font-size: inherit;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .terms-condition label {
+    color: #fff;
+    font-size: 10px !important;
+  }
+  .online-degree-courses-banner .right .form-container .info-text {
+    font-size: 14px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details {
+    padding: 6px;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details {
+    padding: 6px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    aspect-ratio: 1516/768;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container {
+    padding-top: 180px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left {
+    width: 68%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-image {
+    width: 350px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    width: 130px;
+    left: 445px;
+    top: 7%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign-thumb {
+    right: 20px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-360 {
+    left: 402px;
+    width: 110px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-title {
+    font-size: 44px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .univercity {
+    font-family: "Queens";
+    font-size: 18px;
+    padding: 6px 10px 2px 10px;
+    border-radius: 0 12px 12px 0;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .courses-list {
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 36px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card {
+    padding: 0px 20px 20px 20px;
+    gap: 50px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-box {
+    text-align: center;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text {
+    font-size: 14px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text span {
+    display: block;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card img {
+    height: 80px;
+    width: auto;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+    right: -94px;
+    bottom: 68px;
+    width: 138px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .making-icon {
+    right: -69px;
+    bottom: 99px;
+    width: 132px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .smu-banner .banner-img .banner-container {
+    padding-top: 232px;
+  }
+  .online-degree-courses-banner .smu-banner .banner-img .banner-container {
+    padding-top: 140px !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    top: 24%;
+  }
+}
+@media (max-width: 1280px) {
+  .online-degree-courses-banner .right {
+    right: 72px;
+    top: 92px;
+  }
+  .online-degree-courses-banner .right .form-container .form-group {
+    margin-bottom: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .form-group label {
+    display: none;
+  }
+  .online-degree-courses-banner .right .form-container .form-group input,
+  .online-degree-courses-banner .right .form-container .form-group .online-degree-courses-banner .right textarea,
+  .online-degree-courses-banner .right .form-container .form-group .online-degree-courses-banner .right select {
+    font-size: 12px;
+  }
+  .online-degree-courses-banner .right .form-container .terms-condition label {
+    display: block;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock {
+    background: #343634;
+    border-radius: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .terms-condition label {
+    color: #fff;
+    font-size: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .lead-submit {
+    width: 100%;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .section-title {
+    font-size: 24px;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .section-title span {
+    font-size: inherit;
+    color: #FF6600;
+  }
+  .online-degree-courses-banner .right .admisssion-details {
+    padding: 8px !important;
+  }
+  .online-degree-courses-banner .right .admisssion-details .last-date-of-admission {
+    gap: 10px;
+  }
+  .online-degree-courses-banner .right .admisssion-details .last-date-of-admission img {
+    height: 14px;
+    width: auto;
+  }
+  .online-degree-courses-banner .right .admisssion-details .last-date-of-admission .admission-date {
+    font-size: 10px;
+  }
+  .online-degree-courses-banner .right .admisssion-details .limited-seats {
+    gap: 6px;
+  }
+  .online-degree-courses-banner .right .admisssion-details .limited-seats img {
+    height: 14px;
+    width: auto;
+  }
+  .online-degree-courses-banner .right .admisssion-details .limited-seats .admission-date {
+    font-size: 10px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    aspect-ratio: 1516/768;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container {
+    padding-top: 204px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container input {
+    font-size: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .iti--separate-dial-code .iti__selected-dial-code {
+    font-size: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .select2-selection {
+    height: 36px !important;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .iti.iti--separate-dial-code {
+    height: calc(1.5em + 0.75rem - 5px);
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .select2-container--default .select2-selection--single .select2-selection__placeholder {
+    font-size: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left {
+    width: 68%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-image {
+    width: 300px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    width: 120px;
+    bottom: 20px;
+    left: 440px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign-thumb {
+    width: 100px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-360 {
+    width: 100px;
+    left: 423px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-title {
+    font-size: 40px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .univercity {
+    font-size: 18px;
+    padding: 4px 8px 0px 8px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .courses-list {
+    font-size: 18px;
+    padding-top: 8px;
+    padding-bottom: 32px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card {
+    padding: 0px 16px 16px 16px;
+    gap: 40px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-box {
+    text-align: center;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text {
+    font-size: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card img {
+    height: 80px;
+    width: auto;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+    right: -88px;
+    bottom: 66px;
+    width: 128px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .making-icon {
+    right: -70px;
+    bottom: 78px;
+    width: 128px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .smu-banner .banner-img .banner-container {
+    padding-top: 162px !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    top: 26%;
+  }
+}
+@media (max-width: 992px) {
+  .floating-Widget .call-block {
+    display: block;
+  }
+  #leadForm_popup {
+    overflow: unset;
+    overflow-x: hidden;
+    overflow-y: unset;
+  }
+  .online-degree-courses-banner {
+    margin-bottom: 432px;
+  }
+  .online-degree-courses-banner .right {
+    width: 100%;
+    margin-top: unset;
+    right: 34px;
+    top: 766px;
+  }
+  .online-degree-courses-banner .right .form-container {
+    border-radius: 10px;
+    background: #FDD900;
+  }
+  .online-degree-courses-banner .right .form-container .form-group label {
+    display: none;
+  }
+  .online-degree-courses-banner .right .form-container .terms-condition label {
+    display: block;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock {
+    background: #343634;
+    border-radius: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .terms-condition label {
+    color: #fff;
+    font-size: 12px !important;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .lead-submit {
+    width: 100%;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .section-title {
+    font-size: 5vw !important;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock .section-title span {
+    font-size: inherit;
+    color: #FF6600;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    background: rgba(217, 217, 217, 0.21);
+    border-radius: 6px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission .admission-date {
+    font-size: 14px;
+    color: #fff;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .limited-seats {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .limited-seats .admission-date {
+    font-size: 14px;
+    color: #fff;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission .admission-date {
+    font-size: 2.5vw;
+    color: #000;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission .admission-date span {
+    font-size: inherit;
+    color: inherit;
+    font-weight: bold;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .limited-seats {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .limited-seats .admission-date {
+    font-size: 2.5vw;
+    color: #000;
+  }
+  .online-degree-courses-banner .right .form-container .admisssion-details .limited-seats .admission-date span {
+    font-size: inherit;
+    color: inherit;
+    font-weight: bold;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    aspect-ratio: 420/460;
+    background-position: center;
+    background-size: cover;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container {
+    flex-direction: column;
+    padding-top: 0;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left {
+    width: 100%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-image {
+    width: 62.5vw;
+    bottom: unset;
+    top: 200px;
+    right: unset;
+    left: 0;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    width: 25vw;
+    bottom: unset;
+    top: 455px;
+    right: 0;
+    left: unset;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-360 {
+    left: 0;
+    bottom: 138px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 122px;
+    width: 100%;
+    transform: none;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .banner-title {
+    font-family: "Queens";
+    font-size: 32px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .univercity {
+    font-size: 20px;
+    padding: 6px 10px 2px 10px;
+    border-radius: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .courses-list {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 48px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card {
+    padding: 0px 10px 20px 10px;
+    gap: 12px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-box {
+    text-align: center;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text {
+    font-size: 10;
+    line-height: 1.4;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card img {
+    height: 50px;
+    width: auto;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .nirf,
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .naac {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .nirf img,
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .naac img {
+    max-width: 50px;
+    margin: 0 auto;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+    position: absolute;
+    right: -7px;
+    bottom: -272px;
+    width: 168px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .making-icon {
+    position: absolute;
+    right: -7px;
+    bottom: -272px;
+    width: 168px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .smu-banner .banner-img .banner-container {
+    padding-top: 0 !important;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .smu-banner .banner-img .banner-container .left .abd-image {
+    width: 62.5vw;
+    bottom: unset;
+    top: 225px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner {
+    margin-bottom: 432px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .muj {
+    background: #CCC1FF;
+    border: 1px solid #ada4d8;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .univercity {
+    font-family: "Queens";
+    color: #000;
+    width: -moz-fit-content;
+    width: fit-content;
+    font-size: 20px;
+    padding: 6px 10px 2px 10px;
+    border-radius: 12px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    max-height: unset;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container .course-info:last-child {
+    grid-column: 1/-1;
+    /* span entire row */
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-360 {
+    left: 0;
+    bottom: 20.833vw;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    right: 0;
+    left: unset;
+    top: 60%;
+  }
+  .online-degree-statistic .statistic-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    padding: 42px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .online-degree-statistic .statistic-container .course-info {
+    border-right: none;
+    width: 100%;
+    text-align: start;
+    justify-content: start;
+    gap: 14px;
+  }
+  .online-degree-statistic .statistic-container .course-info .title {
+    font-family: "Queens";
+    font-size: 24px;
+    color: rgb(21, 20, 25);
+  }
+  .online-degree-statistic .statistic-container .course-info .title span {
+    display: block;
+  }
+  .online-degree-statistic .statistic-container .course-info:last-child,
+  .online-degree-statistic .statistic-container .course-info:nth-child(2) {
+    border-right: none;
+  }
+  .online-degree-statistic .statistic-container .course-info:last-child {
+    justify-self: center;
+  }
+  .online-advantages .advantage-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  .online-advantages .advantage-wrapper .advantage-card {
+    width: 100%;
+    background: #F7F6F6;
+    padding: 24px;
+  }
+  .online-advantages .advantage-wrapper .advantage-card .feature-wrap img {
+    width: 54px;
+    margin-bottom: 14px;
+  }
+  .unlock-these-benefits .unlock-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card {
+    width: 100%;
+  }
+  .unlock-these-benefits .scholarship-container .scholarship-wrapper {
+    flex-direction: column;
+  }
+  .unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail {
+    width: 100%;
+  }
+  .online-degree-courses {
+    overflow: hidden;
+  }
+  .online-degree-courses .top-section .view-all-btn {
+    font-size: 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab {
+    overflow: visible !important;
+  }
+  .online-degree-courses .wrapper-course .course-tab .tab-buttons {
+    border-bottom: none;
+  }
+  .online-degree-courses .wrapper-course .course-tab .tab-buttons .tab-btn {
+    font-size: 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section {
+    overflow: unset;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider {
+    margin-bottom: 40px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .slick-list {
+    overflow: visible;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 28px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .slick-dots {
+    padding-top: 0;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item {
+    padding: 12px;
+    margin-left: 0;
+    margin-right: 20px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .institute-name {
+    margin-left: -12px;
+    font-size: 16px;
+    line-height: 1.4rem;
+    margin-top: -14px;
+    left: 10px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll {
+    width: 94%;
+    padding: 6px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .top-ranked {
+    font-size: 12px !important;
+    line-height: 1.4rem;
+    padding: 4px 10px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll {
+    padding: 4px 10px;
+    gap: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll .enroll-text {
+    font-size: 12px !important;
+    line-height: 1.4rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll img {
+    width: 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper {
+    padding-top: 28px;
+    height: 212px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil {
+    min-height: 75px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating .rating-number {
+    font-size: 14px;
+    line-height: 1rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating img {
+    max-width: 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .course-name {
+    font-size: 24px;
+    line-height: 1.4;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .dot {
+    width: 6px;
+    height: 6px;
+    margin: 0 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration span {
+    font-size: 16px;
+    line-height: 1.4rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration img {
+    width: 24px;
+    margin-right: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .pricing span {
+    font-size: 16px;
+    line-height: 1.4rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .pricing img {
+    width: 24px;
+    margin-right: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .duration img {
+    width: 18px;
+    margin-right: 8px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .duration .cap-img {
+    width: 22px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .pricing {
+    align-items: flex-start;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .pricing img {
+    width: 18px;
+    margin-right: 8px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .courses-enroll-now {
+    margin-bottom: -29px;
+    margin-top: 54px;
+  }
+}
+@media (max-width: 767.98px) {
+  .online-advantages .advantage-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+  }
+  .unlock-these-benefits .unlock-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    gap: 0;
+    flex-wrap: wrap;
+    padding-bottom: 0;
+    background: #fff;
+    margin-bottom: 60px;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card:first-child {
+    padding-top: 24px;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card:last-child {
+    padding-bottom: 24px;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card {
+    background: none;
+    border-radius: unset;
+    border: none;
+    padding: 12px 24px;
+    width: 100%;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card .feature-wrap {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card .feature-wrap .feature-title {
+    font-size: 22px;
+  }
+  .unlock-these-benefits .unlock-wrapper .unlock-card .feature-wrap img {
+    margin-bottom: 0;
+    width: 46px;
+  }
+  .unlock-these-benefits .scholarship-container .scholarship-wrapper {
+    flex-direction: column;
+  }
+  .unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail {
+    width: 100%;
+  }
+  .unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail .scholarship-text .icon-img {
+    width: 56px;
+  }
+  .unlock-these-benefits .scholarship-container .scholarship-wrapper .scholarship-detail .scholarship-text .description {
+    font-size: 18px;
+  }
+  .online-degree-courses .top-section .view-all-btn {
+    font-size: 2.5vw;
+    padding: 10px 12px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .tab-buttons {
+    border-bottom: none;
+  }
+  .online-degree-courses .wrapper-course .course-tab .tab-buttons .tab-btn {
+    font-size: 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .slick-list {
+    overflow: visible;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .institute-name {
+    margin-left: -12px;
+    font-size: 2.92vw;
+    line-height: 1.4rem;
+    margin-top: -14px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item {
+    padding: 12px;
+    margin-left: 0;
+    margin-right: 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll {
+    width: 94%;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .top-ranked {
+    font-size: 2.917vw;
+    line-height: 1.4rem;
+    padding: 4px 10px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll {
+    padding: 4px 10px;
+    gap: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll .enroll-text {
+    font-size: 2.917vw;
+    line-height: 1.4rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-enroll .student-enroll img {
+    width: 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper {
+    padding-top: 28px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil {
+    min-height: 90px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating .rating-number {
+    font-size: 12px;
+    line-height: 1rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .rating img {
+    max-width: 9px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil .course-name {
+    font-size: 5vw;
+    line-height: 1.4;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .dot {
+    width: 6px;
+    height: 6px;
+    margin: 0 16px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration {
+    width: 60%;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration span {
+    font-size: 16px;
+    line-height: 1.4rem;
+    margin-top: 0;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration img {
+    width: 18px;
+    margin-right: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .pricing span {
+    font-size: 16px;
+    line-height: 1.4rem;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .pricing img {
+    width: 18px;
+    margin-right: 4px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .duration {
+    align-items: flex-start;
+    gap: 2px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .duration span {
+    line-height: 1.2;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .duration img {
+    width: 14px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .duration .cap-img {
+    width: 22px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .pricing {
+    align-items: flex-start;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .pricing span {
+    line-height: 1.2;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .online-course-detail .pricing img {
+    width: 16px;
+    margin-top: 2px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item:last-child {
+    margin-right: 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    justify-content: flex-start;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .onward-upword-icon {
+    right: 0 !important;
+  }
+  .online-degree-courses-banner .right {
+    margin-top: -114px;
+    right: 0px;
+    margin-top: -92px;
+  }
+  .online-degree-courses-banner .right .form-container .formBlock {
+    padding: 20px;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission .admission-date,
+  .online-degree-courses-banner .right .form-container .admisssion-details .last-date-of-admission .admission-date {
+    font-size: 3.5vw !important;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .limited-seats .admission-date,
+  .online-degree-courses-banner .right .form-container .admisssion-details .limited-seats .admission-date {
+    font-size: 3.5vw !important;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .last-date-of-admission .admission-date {
+    font-size: 3vw !important;
+  }
+  .online-degree-courses-banner .right .form-container .scholarship-details .limited-seats .admission-date {
+    font-size: 3vw !important;
+  }
+  .online-degree-courses-banner .right .form-container .info-text {
+    font-size: 3.33vw;
+    margin: 6px 0;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    aspect-ratio: 420/664 !important;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left {
+    width: 100%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt {
+    padding-top: 95px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .banner-title {
+    font-size: 6vw;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .courses-list {
+    font-size: 2.5vw;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .course-price-details {
+    font-size: 16px;
+    margin-top: 4px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .course-price-details span {
+    font-size: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-box {
+    text-align: center;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-text {
+    font-size: 2.08vw;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card img {
+    height: 50px !important;
+    width: auto;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+    position: absolute;
+    right: 0;
+    bottom: -200px;
+    width: 153px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .making-icon {
+    position: absolute;
+    right: -18px;
+    bottom: -232px;
+    width: 153px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .last-date-of-admission {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .last-date-of-admission .admission-date {
+    font-size: 10px;
+    color: #000;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .last-date-of-admission .admission-date span {
+    font-size: inherit;
+    color: inherit;
+    font-weight: bold;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .limited-seats {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .limited-seats .admission-date {
+    font-size: 10px;
+    color: #000;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .limited-seats .admission-date span {
+    font-size: inherit;
+    color: inherit;
+    font-weight: bold;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img {
+    height: 111vh;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img .banner-container.muj-degree {
+    padding-top: 0px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img .banner-container.muj-degree .banner-btn {
+    font-size: 12px;
+    padding: 8px 16px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img .banner-container.muj-degree .left .banner-containt .courses-list {
+    padding-bottom: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img .banner-container.muj-degree .left .abd-image {
+    top: 279px;
+  }
+  .online-degree-courses-banner .course-container .right.muj-degree {
+    margin-top: -230px !important;
+  }
+  .online-degree-statistic .statistic-container {
+    padding: 20px;
+    gap: 20px;
+  }
+  .online-degree-statistic .statistic-container .course-info {
+    text-align: start;
+    justify-content: start;
+    gap: 14px;
+    align-items: center;
+  }
+  .online-degree-statistic .statistic-container .course-info img {
+    height: 40px;
+    width: auto;
+  }
+  .online-degree-statistic .statistic-container .course-info .title {
+    font-family: "Queens";
+    font-size: 16px;
+    color: rgb(21, 20, 25);
+  }
+  .online-degree-statistic .statistic-container .course-info .title span {
+    display: inline;
+  }
+  .online-degree-courses .wrapper-course .course-tab .courses-enroll-now {
+    margin-bottom: -34px;
+    margin-top: 20px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner {
+    margin-bottom: 520px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .right {
+    top: unset;
+    margin-top: -121px !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    height: 95vh;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .making-img {
+    position: absolute;
+    top: 72%;
+    right: 2%;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .scholarship-txt-mobile {
+    position: absolute;
+    top: 78%;
+    right: 2%;
+    display: block;
+    z-index: 2;
+    font-size: 12px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .onward-icon {
+    top: 75%;
+    right: -1%;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .onward-upword-icon {
+    top: 45%;
+    right: -1%;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container {
+    padding-top: 20px;
+    flex-direction: column;
+    position: relative;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .electives {
+    font-size: 12px;
+    margin-bottom: 8px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .electives-text {
+    width: 100%;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .electives-text .more-class {
+    font-size: 14px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .univercity {
+    font-size: 12px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card {
+    gap: 6px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .ugc img {
+    margin-left: -4px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .isolation {
+    height: 56px;
+    margin-left: -11px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .isolation img {
+    height: 28px;
+    max-width: 93px;
+    margin-top: 0px;
+    margin-left: 8px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .rank-card .rank-box {
+    flex-direction: row;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container::after {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.2) 37.81%, rgba(0, 0, 0, 0) 72.93%);
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    content: " ";
+    z-index: 0;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .ranking-logo {
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .second-banner {
+    margin-bottom: 12px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container .course-info {
+    font-size: 6.46vw;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container .course-info .title {
+    width: unset;
+    text-align: center;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses #section1-tab2 .courses-enroll-now {
+    margin-top: 52px !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .courses-enroll-now {
+    margin-bottom: -59px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .tab-buttons {
+    overflow-x: scroll;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .tab-buttons .tab-btn {
+    margin-right: 16px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .tab-buttons::-webkit-scrollbar {
+    display: none;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item {
+    padding-bottom: 40px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil {
+    padding-bottom: 6px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .pricing {
+    margin-top: -4px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .banner-img .banner-container .left .abd-image {
+    top: 230px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .smu-banner .banner-img .banner-container .left .abd-image {
+    top: 260px;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 480px) {
+  .online-degree-courses-banner {
+    height: 614px;
+  }
+  .online-degree-courses-banner .course-container .right {
+    margin-top: -230px !important;
+  }
+  .online-degree-courses-banner .course-container .right .form-container .formBlock {
+    padding: 20px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner {
+    height: 649px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .right {
+    margin-top: -129px !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .right .form-container .formBlock {
+    padding: 20px;
+  }
+}
+@media (max-width: 426px) {
+  .online-degree-courses-banner {
+    height: 614px;
+  }
+  .online-degree-courses-banner .course-container .right {
+    margin-top: -274px;
+  }
+  .online-degree-courses-banner .course-container .right .form-container .formBlock {
+    padding: 20px;
+  }
+  .online-degree-courses-banner .course-container .right .form-container .scholarship-details {
+    padding: 8px;
+  }
+  .online-degree-courses-banner .course-container .right .form-container .scholarship-details .last-date-of-admission .admission-date {
+    font-size: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    aspect-ratio: 468/740 !important;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left {
+    width: 100%;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt {
+    padding-top: 80px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .univercity {
+    font-size: 4.17vw;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .banner-containt .courses-list {
+    font-size: 3vw;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+    position: absolute;
+    right: -14px;
+    bottom: -168px;
+    width: 168px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .making-icon {
+    position: absolute;
+    right: -11px;
+    bottom: -192px;
+    width: 153px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .last-date-of-admission {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .last-date-of-admission .admission-date {
+    font-size: 10px;
+    color: #000;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .last-date-of-admission .admission-date span {
+    font-size: inherit;
+    color: inherit;
+    font-weight: bold;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .limited-seats {
+    display: flex;
+    gap: 10px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .limited-seats .admission-date {
+    font-size: 10px;
+    color: #000;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .admisssion-details .limited-seats .admission-date span {
+    font-size: inherit;
+    color: inherit;
+    font-weight: bold;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .course-wrapper .duration-pricing .duration {
+    width: 54%;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner {
+    height: 554px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-360 {
+    left: 0;
+    bottom: 60px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .course-deatil {
+    min-height: 80px;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .course-wrapper .duration-pricing .duration {
+    width: 54%;
+  }
+  .online-degree-courses .wrapper-course .course-tab .top-online-course-section .top-course-slider .line-item .institute-name {
+    font-size: 2.92vw;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner {
+    margin-bottom: 478px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .making-img {
+    top: 75%;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    height: 429px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    height: 592px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.smu-banner .left .banner-containt {
+    padding-top: 90px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.smu-banner .left .banner-title.second-banner {
+    font-size: 5.8vw;
+    margin-top: 10px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.smu-banner .left .electives-text {
+    margin-bottom: 24px !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .right {
+    margin-top: -75px !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .abd-sign {
+    width: 25vw;
+    bottom: unset !important;
+    top: 390px;
+    right: 0;
+    left: unset !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .onward-upword-icon {
+    top: 52%;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-statistic .statistic-container {
+    gap: 35px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img {
+    height: 90vh;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img .banner-container .left .abd-360 {
+    bottom: 160px;
+  }
+}
+@media (max-width: 390px) {
+  .online-degree-courses-banner {
+    height: 618px;
+  }
+}
+@media (max-width: 370px) {
+  .online-degree-courses-banner {
+    height: 602px;
+  }
+  .online-degree-courses-banner .course-container .right {
+    margin-top: -270px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .making-icon {
+    bottom: -142px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img .banner-container .left .ranking-logo .onwardupward {
+    bottom: -126px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .right {
+    top: -61px !important;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner {
+    margin-bottom: 458px;
+  }
+  .page-template-mahe-landing-page-generic .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item .banner-img {
+    height: 569px;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img {
+    height: 90vh;
+  }
+  .online-degree-courses-banner .course-container .online-courses-banner-slider .line-item.muj-degree .banner-img .banner-container .left .abd-360 {
+    bottom: 160px;
+  }
+}/*# sourceMappingURL=online-degree-courses-lp.css.map */
